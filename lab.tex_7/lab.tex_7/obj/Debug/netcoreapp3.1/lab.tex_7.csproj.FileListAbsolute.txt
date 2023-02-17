@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\lab.tex_7\lab.tex_7\obj\Debug\netcoreapp3.1\lab.tex_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\lab.tex_7\lab.tex_7\obj\Debug\netcoreapp3.1\lab.tex_7.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\lab.tex_7\lab.tex_7\obj\Debug\netcoreapp3.1\lab.tex_7.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\lab.tex_7\lab.tex_7\obj\Debug\netcoreapp3.1\lab.tex_7.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\lab.tex_7\lab.tex_7\bin\Debug\netcoreapp3.1\lab.tex_7.exe
+C:\Users\Lenovo\source\repos\lab.tex_7\lab.tex_7\bin\Debug\netcoreapp3.1\lab.tex_7.deps.json
+C:\Users\Lenovo\source\repos\lab.tex_7\lab.tex_7\bin\Debug\netcoreapp3.1\lab.tex_7.runtimeconfig.json
+C:\Users\Lenovo\source\repos\lab.tex_7\lab.tex_7\bin\Debug\netcoreapp3.1\lab.tex_7.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\lab.tex_7\lab.tex_7\bin\Debug\netcoreapp3.1\lab.tex_7.dll
+C:\Users\Lenovo\source\repos\lab.tex_7\lab.tex_7\bin\Debug\netcoreapp3.1\lab.tex_7.pdb
+C:\Users\Lenovo\source\repos\lab.tex_7\lab.tex_7\obj\Debug\netcoreapp3.1\lab.tex_7.dll
+C:\Users\Lenovo\source\repos\lab.tex_7\lab.tex_7\obj\Debug\netcoreapp3.1\lab.tex_7.pdb
+C:\Users\Lenovo\source\repos\lab.tex_7\lab.tex_7\obj\Debug\netcoreapp3.1\lab.tex_7.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\lab.tex_7\lab.tex_7\obj\Debug\netcoreapp3.1\lab.tex_7.csproj.AssemblyReference.cache
